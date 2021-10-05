@@ -1,0 +1,32 @@
+body {
+    margin:0px;
+    font-family: 'Lato', sans-serif;
+}
+
+.container1 {
+    background-image: url("./images/pattern-bg.png");
+    background-position:top;
+    background-size: center;
+    background-repeat: no-repeat;
+    height:50vh;
+    text-align:center;
+    padding:20px;
+    color:#ffffff;
+}
+
+input {
+    padding:15px;
+    width:30%;
+    border-radius:15px;
+    border:none;
+}
+
+#map{
+    height: 50vh;
+}
+/*
+display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction: column;
+    */
