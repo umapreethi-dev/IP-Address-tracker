@@ -20,7 +20,7 @@ This project helps user to track the ip address and gives location.
 
 ### Links
 
-- [Demo site](https://umapreethi-dev.github.io/IP-Address-tracker/)
+- [Demo site](https://ip-address-tracker-7qb6a254a-umapreethi-dev.vercel.app/)
 
 
 
